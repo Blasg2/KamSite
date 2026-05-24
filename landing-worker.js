@@ -1,5 +1,5 @@
 // Cloudflare Worker — serves the kamsite.uk landing page.
-// Bare domain (kamsite.uk) works directly; no bucket, no /index.html needed.
+// Bare domain (kamsite.uk) works directly; no bucket, no /index.html needed..
 
 const PAGE = `<!DOCTYPE html>
 <html lang="en">
